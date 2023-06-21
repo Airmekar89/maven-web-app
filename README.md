@@ -46,3 +46,6 @@ git remote rename new-origin origin
 
 ### Done! Now your local git repo is connected to "new repo" remote
 ### which has all the branches, tags and commits history.
+
+####################################################################
+End.
